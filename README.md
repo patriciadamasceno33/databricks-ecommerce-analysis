@@ -59,7 +59,7 @@ Top clientes:
 Identificação dos clientes com maior volume de compras.
 
 
-<img width="501" height="335" alt="image" src="https://github.com/user-attachments/assets/7e99fe2a-90b9-43f6-bdf0-55f49d06b522" />
+<img width="505" height="338" alt="image" src="https://github.com/user-attachments/assets/8a02c872-823f-4147-92e2-4afb62d6962c" />
 
 
 Produtos mais vendidos:
