@@ -3,7 +3,7 @@ Este projeto tem como objetivo analisar dados reais de um e-commerce brasileiro,
 
 A solução foi desenvolvida utilizando Databricks, com foco em organização de dados em camadas (Bronze, Silver e Gold) e análises voltadas para tomada de decisão.
 
-Objetivos
+O Objetivo foi
 Construir um pipeline de dados estruturado
 Realizar tratamento e padronização dos dados
 Integrar múltiplas tabelas relacionais
@@ -16,8 +16,7 @@ SQL
 Databricks
 Modelo de dados em camadas (Medallion Architecture)
 
-Arquitetura de Dados
-
+Arquitetura de Dados - 
 O projeto segue a arquitetura em três camadas:
 
 Bronze:
@@ -35,8 +34,7 @@ Dados consolidados para análise
 Integração entre pedidos, pagamentos e itens
 Preparação para geração de insights
 
-Modelagem dos Dados
-
+Modelagem dos Dados - 
 Relacionamentos principais:
 
 Clientes ↔ Pedidos → customer_id
