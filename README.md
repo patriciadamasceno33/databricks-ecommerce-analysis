@@ -51,11 +51,13 @@ Análises Realizadas:
 Faturamento ao longo do tempo;
 Análise do crescimento mensal do faturamento, identificando tendências de expansão do negócio.
 
+
 <img width="1009" height="289" alt="evolucao_faturamento_mensal" src="https://github.com/user-attachments/assets/6b5b7ee2-8471-4952-b2aa-1de131c24bc6" />
 
 
 Top clientes:
 Identificação dos clientes com maior volume de compras.
+
 
 <img width="501" height="335" alt="image" src="https://github.com/user-attachments/assets/7e99fe2a-90b9-43f6-bdf0-55f49d06b522" />
 
@@ -65,6 +67,7 @@ Análise de volume de vendas por produto.
 
 
 <img width="501" height="336" alt="image" src="https://github.com/user-attachments/assets/48cfe671-30b9-4b51-ae87-7ef3c49ee657" />
+
 
 
 Principais Insights:
