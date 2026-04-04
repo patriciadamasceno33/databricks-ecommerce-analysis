@@ -10,11 +10,13 @@ Integrar múltiplas tabelas relacionais
 Gerar análises de faturamento e comportamento de clientes
 Demonstrar habilidades práticas como analista de dados
 
+
 Tecnologias utilizadas:
-Python (PySpark)
-SQL
-Databricks
-Modelo de dados em camadas (Medallion Architecture)
+Python (PySpark),
+SQL,
+Databricks e
+Modelo de dados em camadas (Medallion Architecture).
+
 
 Arquitetura de Dados - 
 O projeto segue a arquitetura em três camadas:
@@ -34,12 +36,16 @@ Dados consolidados para análise
 Integração entre pedidos, pagamentos e itens
 Preparação para geração de insights
 
+
 Modelagem dos Dados - 
 Relacionamentos principais:
 
 Clientes ↔ Pedidos → customer_id
+
 Pedidos ↔ Itens → order_id
+
 Pedidos ↔ Pagamentos → order_id
+
 
 Análises Realizadas:
 Faturamento ao longo do tempo;
@@ -51,24 +57,27 @@ Identificação dos clientes com maior volume de compras.
 Produtos mais vendidos:
 Análise de volume de vendas por produto.
 
+
 Principais Insights:
 Houve crescimento consistente do faturamento ao longo de 2017, indicando expansão da operação.
 Os primeiros meses apresentam baixa volumetria, sugerindo fase inicial do negócio.
 A receita está concentrada em uma parcela menor de clientes, indicando comportamento compatível com o princípio de Pareto.
 Alguns produtos apresentam alto volume de vendas, mas não necessariamente alto faturamento.
 
+
 Desafios enfrentados:
-Ajuste de joins para evitar duplicação de valores
-Tratamento de dados inconsistentes
+Ajuste de joins para evitar duplicação de valores,
+Tratamento de dados inconsistentes e
 Garantia de integridade nas agregações financeiras
 
+
 Possíveis melhorias:
-Criação de dashboards interativos (Power BI)
-Análise de retenção de clientes
-Cálculo de métricas como LTV (Lifetime Value)
+
+Criação de dashboards interativos (Power BI),
+Análise de retenção de clientes,
+Cálculo de métricas como LTV (Lifetime Value) e
 Segmentação de clientes
 
-Contato
 
 Caso queira trocar ideias ou discutir o projeto:
 
