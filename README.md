@@ -1,6 +1,14 @@
 # Analise-de-Dados-de-E-commerce-com-Databricks
 Este projeto tem como objetivo analisar dados reais de um e-commerce brasileiro, construindo um pipeline completo de dados e gerando insights estratégicos para o negócio.
 
+Fonte dos Dados:
+
+Os dados utilizados neste projeto são provenientes do dataset público de e-commerce brasileiro disponibilizado pela empresa Olist.
+O dataset contém informações reais de pedidos realizados entre 2016 e 2018, incluindo dados de clientes, pedidos, itens e pagamentos.
+
+Acesso ao dataset: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+
 A solução foi desenvolvida utilizando Databricks, com foco em organização de dados em camadas (Bronze, Silver e Gold) e análises voltadas para tomada de decisão.
 
 O Objetivo foi
